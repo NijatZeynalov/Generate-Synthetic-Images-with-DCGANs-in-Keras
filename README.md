@@ -9,3 +9,10 @@ In our GAN setup,  we want to be able to sample from a complex, high-dimensional
 __The GAN consists of two adversarial players: a discriminator and a generator. We’re going to train the two players jointly in a minimax game theoretic formulation.__
 
 <a href="https://user-images.githubusercontent.com/31247506/88457537-2df70f80-ce90-11ea-9fad-7ca633c1558d.gif"><img src="https://user-images.githubusercontent.com/31247506/88457537-2df70f80-ce90-11ea-9fad-7ca633c1558d.gif" title="made at imgflip.com"/></a>
+
+
+In this project, I focused on two learning objectives:
+
+1. Understand Deep Convolutional Generative Adversarial Networks (DCGANs and GANs)
+
+2. Design and train DCGANs using the Keras API in Python
